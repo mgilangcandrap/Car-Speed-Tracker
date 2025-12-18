@@ -2,6 +2,9 @@
 
 Projek ini dibuat untuk mendeteksi kecepatan sebuah kendaraan yang melintas di antara 2 IR sensor, dan mendisplay kecepatan kendaraan tersebut serta memberikan warning berupa LED 3 warna dan sebuah buzzer
 
+=== Video Perakitan ===
+[Click Here](https://youtu.be/P9mDq_WioKE)
+
 === Daftar Komponen ===
 * Arduino Nano
 * 2 IR Sensor
