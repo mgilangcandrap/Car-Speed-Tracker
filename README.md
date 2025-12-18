@@ -1,6 +1,6 @@
 ===== Pendeteksi Kecepatan Kendaraan =====
 
-Projek ini dibuat untuk mendeteksi kecepatan sebuah kendaraan yang melintas di antara 2 IR sensor, dan mendisplay kecepatan kendaraan tersebut serta memberikan warning berupa LED 3 warna dan sebuah buzzer
+Projek ini dibuat untuk mendeteksi kecepatan sebuah kendaraan yang melintas di antara 2 IR sensor, dengan LCD 16x2 I2C sebagai display kecepatan kendaraan tersebut serta memberikan warning berupa LED 3 warna dan sebuah buzzer
 
 === Video Perakitan ===
 
