@@ -20,13 +20,8 @@ Projek ini dibuat untuk mendeteksi kecepatan sebuah kendaraan yang melintas di a
 - Traffic Light (R to D4 || Y to D5 || G to D6)
 
 === Cara Kerja ===
-
-~ IR 1&2 mendeteksi kendaraan yang melewatinya, dengan jarak antar IR 15cm
-
-~ Mikrokontroler mengkonversi waktu kendaraan saat melewati IR 1 dan IR 2 ke kmh dengan V=S/T
-
-~ LCD menampilkan kecepatan mobil dalam kmh dan mengkategorikan apakah kecepatannya rendah, normal, atau overspeed
-
-~ Traffic Light akan menyala sesuai dengan kategori kecepatan kendaraan
-
-~ Buzzer juga akan mengeluarkan beep sesuai dengan kategori kecepatan kendaraan
+- IR 1&2 mendeteksi kendaraan yang melewatinya, dengan jarak antar IR 15cm
+- Mikrokontroler mengkonversi waktu kendaraan saat melewati IR 1 dan IR 2 ke kmh dengan V=S/T
+- LCD menampilkan kecepatan mobil dalam kmh dan mengkategorikan apakah kecepatannya rendah, normal, atau overspeed
+- Traffic Light akan menyala sesuai dengan kategori kecepatan kendaraan
+- Buzzer juga akan mengeluarkan beep sesuai dengan kategori kecepatan kendaraan
