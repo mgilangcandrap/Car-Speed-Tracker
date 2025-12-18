@@ -30,5 +30,4 @@ Projek ini dibuat untuk mendeteksi kecepatan sebuah kendaraan yang melintas di a
 - Buzzer juga akan mengeluarkan beep sesuai dengan kategori kecepatan kendaraan
 
 === Logic Rumus ===
-
-<img width="591" height="591" alt="V =" src="https://github.com/user-attachments/assets/2114e6c2-c8b5-474a-8f22-0edbe28bddef" />
+<img width="591" height="591" alt="Rumus Konversi" src="https://github.com/user-attachments/assets/0a854564-c1f2-4818-975b-9c124db24d78" />
