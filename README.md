@@ -13,6 +13,7 @@ Projek ini dibuat untuk mendeteksi kecepatan sebuah kendaraan yang melintas di a
 * Mini Traffic Light
 * Buzzer
 * Breadboard
+* Jumper Cable
 
 === Skema ===
 <img width="955" height="1007" alt="Skema Pendeteksi Kecepatan" src="https://github.com/user-attachments/assets/fdb9b4b0-3333-49c1-887f-fdc7f93c832d" />
